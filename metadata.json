@@ -1,0 +1,5 @@
+{
+  "name": "RR_Prototype_ServerSelect",
+  "description": "A retro pixel art character selection menu for a game. It displays character portraits, attributes (SPD, DEX, ATT, CHR), and a price per shift, all in a classic 8-bit aesthetic.",
+  "requestFramePermissions": []
+}
